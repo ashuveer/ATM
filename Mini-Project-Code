@@ -113,7 +113,7 @@ int main()
 	// created User ( object )
 	atm user1;
 	// Set User Details ( into object )         ( Setting Default Data )
-	user1.setData(1234567, "Tim", 1111, 999999.1290, "8298919231,6367152722");
+	user1.setData(1234567, "Tim", 1111, 999999.1290, "8298919231");
 
 
 	do
